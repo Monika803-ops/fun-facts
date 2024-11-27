@@ -1,6 +1,6 @@
 # fun-facts
 This repo contains code for fun facts
-# Random Fact Generator
+# Random Fact About Me
 
 This is a simple single-page application that displays random facts when a button is clicked. It is built using HTML, CSS, and JavaScript.
 
